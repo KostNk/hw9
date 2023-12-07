@@ -1,0 +1,14 @@
+/Users/no1/Projects/hw9/bin/Debug/net7.0/hw9
+/Users/no1/Projects/hw9/bin/Debug/net7.0/hw9.deps.json
+/Users/no1/Projects/hw9/bin/Debug/net7.0/hw9.runtimeconfig.json
+/Users/no1/Projects/hw9/bin/Debug/net7.0/hw9.dll
+/Users/no1/Projects/hw9/bin/Debug/net7.0/hw9.pdb
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.AssemblyInfoInputs.cache
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.AssemblyInfo.cs
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.csproj.CoreCompileInputs.cache
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.dll
+/Users/no1/Projects/hw9/obj/Debug/net7.0/refint/hw9.dll
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.pdb
+/Users/no1/Projects/hw9/obj/Debug/net7.0/hw9.genruntimeconfig.cache
+/Users/no1/Projects/hw9/obj/Debug/net7.0/ref/hw9.dll
